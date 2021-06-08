@@ -45,7 +45,7 @@
     "broccoli-concat": "^3.2.2",
     "broccoli-node-info": "~2.1.0",
     "broccoli-persistent-filter": "^2.1.1",
-    "chalk": "~3.0.0",
+    "chalk": "~4.1.1",
     "ignore": "^5.0.2",
     "js-string-escape": "~1.0.1",
     "lodash.defaultsdeep": "^4.6.0",
